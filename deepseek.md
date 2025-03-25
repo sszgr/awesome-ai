@@ -13,7 +13,7 @@
 - [DeepSeek-V3-671B](https://huggingface.co/deepseek-ai/DeepSeek-V3)
 - [DeepSeek-V3-Base-671B](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base)
 - [DeepSeek-V3-0324-671B](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)   
-  2025.03.24 DeepSeek 发布更新版本 DeepSeek-V3-0324。
+  2025.03.24 DeepSeek 发布更新版本 DeepSeek-V3-0324。   
   https://www.youtube.com/watch?v=LdYImZwa82o
 
 ## 开源周
@@ -40,7 +40,7 @@
   Dify 是一款开源的大语言模型(LLM) 应用开发平台。它融合了后端即服务（Backend as Service）和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。  
   源码: [Apache 2.0] - https://github.com/langgenius/dify
 - [LangChain](https://www.langchain.com/)  
-  LangChain 是一个用于构建由 LLM 驱动的应用程序的框架。提供了丰富的模块和工具，帮助开发者快速构建基于大语言模型的应用。
+  LangChain 是一个用于构建由 LLM 驱动的应用程序的框架。提供了丰富的模块和工具，帮助开发者快速构建基于大语言模型的应用。  
   源码: [MIT] - https://github.com/langchain-ai/langchain
 
 ## 前端工具
@@ -57,5 +57,5 @@
   全栈应用程序，可以将任何文档、资源（如网址链接、音频、视频）或内容片段转换为上下文，结合向量数据库解决方案，实现与用户提供的任何文档的智能交互。  
   源码: [MIT] - https://github.com/Mintplex-Labs/anything-llm
 - [Cherry Studio](https://cherry-ai.com/)  
-  跨平台的 AI 客户端软件，支持 Windows、macOS 和 Linux 系统。 ​
+  跨平台的 AI 客户端软件，支持 Windows、macOS 和 Linux 系统。 ​  
   源码: [Apache 2.0-Clause New or Revised] - https://github.com/CherryHQ/cherry-studio/blob/main/LICENSE
